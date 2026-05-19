@@ -10,7 +10,7 @@ function Navbar() {
             <div className="container">
 
                 <Link className="navbar-brand" to="/">
-                    Tienda Ropa
+                    Gaia
                 </Link>
 
                 <div className="navbar-nav">
